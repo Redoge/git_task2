@@ -1,0 +1,20 @@
+From 28e9dd140b51570ba9a0fb7719df6401ecab0e1a Mon Sep 17 00:00:00 2001
+From: Redoge <mail.redoge@gmail.com>
+Date: Sun, 11 Jun 2023 23:51:17 +0300
+Subject: [PATCH] Add secondFile.txt with 10 lines
+
+---
+ secondFile.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 secondFile.txt
+
+diff --git a/secondFile.txt b/secondFile.txt
+new file mode 100644
+index 0000000..fbc1378
+--- /dev/null
++++ b/secondFile.txt
+@@ -0,0 +1 @@
++Line 1\nLine 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8\nLine 9\nLine 10
+-- 
+2.34.1
+
